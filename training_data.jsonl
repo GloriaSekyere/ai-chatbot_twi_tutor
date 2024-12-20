@@ -1,5 +1,5 @@
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What do you have for lunch?"}, {"role": "assistant", "content": "Ɛdeɛn na wo wɔ awia yi?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for a bottle of water?"}, {"role": "assistant", "content": "Nsuo bottle no yɛ sen?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for a bottle of water?"}, {"role": "assistant", "content": "Nsuo bottle no yɛ sɛn?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have fish today?"}, {"role": "assistant", "content": "Ɛnnɛ wo wɔ fish ?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Is the chicken spicy?"}, {"role": "assistant", "content": "Mako dɔɔso wɔ akokɔ no mu anaa?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I get some soup with that?"}, {"role": "assistant", "content": "Mɛtumi anya nkwan aka hoo?"}]}
@@ -14,7 +14,7 @@
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have any fruits?"}, {"role": "assistant", "content": "Wo wɔ fruits?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I have my order to go?"}, {"role": "assistant", "content": "Mɛtumi ayɛ takeaway?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Is the food spicy?"}, {"role": "assistant", "content": "Mako dɔɔso wɔ aduane no mu anaa?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How long will it take for the soup to be ready?"}, {"role": "assistant", "content": "Nkwan no bɛdi sɛn ansa abene?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How long will it take for the soup to be ready?"}, {"role": "assistant", "content": "Nkwan no bɛ di sɛn ansa abene?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I get a bag to carry my food?"}, {"role": "assistant", "content": "Mɛtumi anya rubber bag?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have any local dishes?"}, {"role": "assistant", "content": "Wo wɔ efie nnuane?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much is the fried rice?"}, {"role": "assistant", "content": "Fried rice no yɛ sɛn?"}]}
@@ -42,61 +42,59 @@
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you sell milk?"}, {"role": "assistant", "content": "Wo tɔn milk?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What is the best food you recommend?"}, {"role": "assistant", "content": "Ɛdeɛn na nkrɔfoɔ ɛtae tɔ?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have any special offers today?"}, {"role": "assistant", "content": "Wo wɔ specials ɛnnɛ?"}]}
-/*
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How long until the food is ready?"}, {"role": "assistant", "content": "Adidibea no bɛda hɔ ɛhe?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the beans stew?"}, {"role": "assistant", "content": "Beans stew no yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I add some avocado?"}, {"role": "assistant", "content": "Mɛtumi de avocado to ho?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have a menu for drinks?"}, {"role": "assistant", "content": "Wɔwɔ menu a ɛda so?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where do you buy your ingredients?"}, {"role": "assistant", "content": "Ɛhe na wotɔ w’ɛkɔtɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What do you recommend for dinner?"}, {"role": "assistant", "content": "Dɛn na wopɛ sɛ wokɔda?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Are the fish and chips ready?"}, {"role": "assistant", "content": "Nkuto ne chips no atɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have pepper sauce?"}, {"role": "assistant", "content": "Wɔwɔ pepper sauce?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I order extra rice?"}, {"role": "assistant", "content": "Mɛtumi de rice no to ho?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the fried plantain?"}, {"role": "assistant", "content": "Aburoo a wɔde kɔ no yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Is there any meat in the soup?"}, {"role": "assistant", "content": "Nkuto no wɔ nkuto mu?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have stew with fish?"}, {"role": "assistant", "content": "Wɔwɔ nsuo ne nkuto?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I get some extra pepper?"}, {"role": "assistant", "content": "Mɛtumi de pepper to ho?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Are you open on Sundays?"}, {"role": "assistant", "content": "Ɛwɔ ho ɛda Kwasida?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where is the food court?"}, {"role": "assistant", "content": "Ɛhe na adidibea no wɔ hɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have any special drinks?"}, {"role": "assistant", "content": "Wɔwɔ nsuo a ɛyɛ kɔkɔɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much is this?"}, {"role": "assistant", "content": "Eyi yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have rice?"}, {"role": "assistant", "content": "Wɔwɔɔɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What other food items do you have?"}, {"role": "assistant", "content": "Dɛn na wowɔ foforo?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I have some beans with that?"}, {"role": "assistant", "content": "Mɛtumi de beans to ho?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Is the food ready to eat?"}, {"role": "assistant", "content": "Adidibea no atɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I pay by mobile money?"}, {"role": "assistant", "content": "Mɛtumi atɔ wɔ MoMo?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where is the nearest ATM to withdraw cash?"}, {"role": "assistant", "content": "Ɛhe na ATM no wɔ hɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How long will it take for my order to be ready?"}, {"role": "assistant", "content": "Bɛyɛ dɛn na me din bɛyɛ ready?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Are you open today?"}, {"role": "assistant", "content": "Wɔda ho ɔha?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have any drinks available?"}, {"role": "assistant", "content": "Wɔwɔ nsa bi?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much is the food?"}, {"role": "assistant", "content": "Adidibea no yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you sell traditional food here?"}, {"role": "assistant", "content": "Wɔtɔ adidibea a yɛn mu?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I get extra sauce with my meal?"}, {"role": "assistant", "content": "Mɛtumi nya sɔs no ho kɔɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for one portion of rice and beans?"}, {"role": "assistant", "content": "Ɛhe na portion baako no yɛ sen?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How long until the food is ready?"}, {"role": "assistant", "content": "Adunane no bɛ di sɛn??"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the beans stew?"}, {"role": "assistant", "content": "Beans stew no yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I add some avocado?"}, {"role": "assistant", "content": "Mɛtumi de pear aka ho?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have a menu for drinks?"}, {"role": "assistant", "content": "Wo wɔ drinks menu?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where do you buy your ingredients?"}, {"role": "assistant", "content": "Ɛhe na wo di wo dwa?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What do you recommend for dinner?"}, {"role": "assistant", "content": "Dɛn na yɛndi annwunummerɛ yi?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Are the fish and chips ready?"}, {"role": "assistant", "content": "Fish ne chips no ayɛ ready?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have pepper sauce?"}, {"role": "assistant", "content": "Wo wɔ shito?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I order extra rice?"}, {"role": "assistant", "content": "Mɛtumi de rice no bi aka ho?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the fried plantain?"}, {"role": "assistant", "content": "Aburoo a wɔde kɔ no yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Is there any meat in the soup?"}, {"role": "assistant", "content": "Nnam wɔ nkwan no mu?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have stew with fish?"}, {"role": "assistant", "content": "Wo wɔ stew ne fish?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I get some extra pepper?"}, {"role": "assistant", "content": "Mɛtumi anya mako no bi aka ho?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Are you open on Sundays?"}, {"role": "assistant", "content": "Wo bie Kwasiada?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where is the food court?"}, {"role": "assistant", "content": "Ɛhe na adidibea no wɔ?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have any special drinks?"}, {"role": "assistant", "content": "Wo wɔ special drinks?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much is this?"}, {"role": "assistant", "content": "Wei yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have rice?"}, {"role": "assistant", "content": "Wo wɔ ɛmoo?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What other food items do you have?"}, {"role": "assistant", "content": "Ɛdeɛn biem na wo wɔ?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I have some beans with that?"}, {"role": "assistant", "content": "Mɛtumi de beans aka ho?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Is the food ready to eat?"}, {"role": "assistant", "content": "Aduane no abene?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I pay by mobile money?"}, {"role": "assistant", "content": "Mɛtumi de MoMo atua?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where is the nearest ATM to withdraw cash?"}, {"role": "assistant", "content": "ATM bi bɛn ha?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How long will it take for my order to be ready?"}, {"role": "assistant", "content": "Me order no bɛ yɛ ready time bɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Are you open today?"}, {"role": "assistant", "content": "W'abie ɛnɛ?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have any drinks available?"}, {"role": "assistant", "content": "Wo wɔ drinks?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much is the food?"}, {"role": "assistant", "content": "Aduane no yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you sell traditional food here?"}, {"role": "assistant", "content": "Wo tɔn efie aduane wɔ ha?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I get extra sauce with my meal?"}, {"role": "assistant", "content": "Mɛtumi anya stew no bi aka m'aduane no ho?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for one portion of rice and beans?"}, {"role": "assistant", "content": "Ɛmoo ne beans no yɛ sɛn?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have guinea fowl?"}, {"role": "assistant", "content": "Wo wɔ akɔmfɛm?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What time do you close?"}, {"role": "assistant", "content": "Wo pɔn time bɛn?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have a menu?"}, {"role": "assistant", "content": "Wo wɔ menu?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I take the food away (to go)?"}, {"role": "assistant", "content": "Mɛtumi ayɛ aduane no takeaway?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Are the foods fresh?"}, {"role": "assistant", "content": "Nnuane no yɛ fresh?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you offer discounts?"}, {"role": "assistant", "content": "Wɔ ma discount?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the fried yam?"}, {"role": "assistant", "content": "Aburoo a wɔde kɔ no yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have fish soup?"}, {"role": "assistant", "content": "Wɔwɔ nkuto nsuo?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the plantain chips?"}, {"role": "assistant", "content": "Aburoo a wɔde kɔ no yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where can I get fresh fish?"}, {"role": "assistant", "content": "Ɛhe na mɛtumi asɔ nkuto?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have boiled eggs?"}, {"role": "assistant", "content": "Wɔwɔ nkuto a wɔde kɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the fried rice and chicken?"}, {"role": "assistant", "content": "Fried rice ne nkuto no yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have coconut water?"}, {"role": "assistant", "content": "Wɔwɔ coconut water?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I have some more sauce?"}, {"role": "assistant", "content": "Mɛtumi de sɔs no ho?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where can I buy bread?"}, {"role": "assistant", "content": "Ɛhe na mɛtumi atɔ bread?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for one bottle of juice?"}, {"role": "assistant", "content": "Juice no yɛ sen?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you sell palm wine?"}, {"role": "assistant", "content": "Wɔtɔ nsuo nkuto?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I buy a plate of beans?"}, {"role": "assistant", "content": "Mɛtumi atɔ plate baako beans?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you sell fried fish?"}, {"role": "assistant", "content": "Wɔtɔ nkuto a wɔde kɔ?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I have some rice with my soup?"}, {"role": "assistant", "content": "Mɛtumi de rice to nkuto no ho?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What time do you open in the morning?"}, {"role": "assistant", "content": "Bere bɛn na mofrɛ ho anɔpa?"}]}
-*/
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the rice balls?"}, {"role": "assistant", "content": "Ɛmootuo no yɛ sen?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you offer discounts?"}, {"role": "assistant", "content": "Wo ma discount?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the fried yam?"}, {"role": "assistant", "content": "Bayerɛ a yakye no yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have fish soup?"}, {"role": "assistant", "content": "Wo wɔ fish nkwan?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the plantain chips?"}, {"role": "assistant", "content": "Plantain chips no yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where can I get fresh fish?"}, {"role": "assistant", "content": "Ɛhe na mɛnya fresh fish?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have boiled eggs?"}, {"role": "assistant", "content": "Wo wɔ kosua a y'anoa?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the fried rice and chicken?"}, {"role": "assistant", "content": "Fried rice ne akokɔ no yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have coconut water?"}, {"role": "assistant", "content": "Wo wɔ kube nsuo?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I have some more sauce?"}, {"role": "assistant", "content": "Mɛnya stew no bi aka no ho?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Where can I buy bread?"}, {"role": "assistant", "content": "Ɛhe na mɛnya paano atɔ?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for one bottle of juice?"}, {"role": "assistant", "content": "Juice bottle baako yɛ sɛn?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you sell palm wine?"}, {"role": "assistant", "content": "Wo tɔn nsa fufuo?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I buy a plate of beans?"}, {"role": "assistant", "content": "Mɛtumi atɔ beans plate?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you sell fried fish?"}, {"role": "assistant", "content": "Wo tɔn fish ah yakye?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Can I have some rice with my soup?"}, {"role": "assistant", "content": "Mɛtumi anya ɛmoo aka menkwan no ho?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "What time do you open in the morning?"}, {"role": "assistant", "content": "Ɛberɛ bɛn na wo bie anɔpa?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for the rice balls?"}, {"role": "assistant", "content": "Ɛmootuo no yɛ sɛn?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have fresh vegetables?"}, {"role": "assistant", "content": "Wo wɔ fresh vegetables wɔ hɔ?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have peanut soup?"}, {"role": "assistant", "content": "Wo wɔ nkate nwkan?"}]}
-{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for one grilled chicken?"}, {"role": "assistant", "content": "Akokɔ a y'atoto no yɛ sen?"}]}
+{"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "How much for one grilled chicken?"}, {"role": "assistant", "content": "Akokɔ a y'atoto no yɛ sɛn?"}]}
 {"messages": [{"role": "system", "content": "You are a native Asante Twi tutor."}, {"role": "user", "content": "Do you have porridge?"}, {"role": "assistant", "content": "Wo wɔ koko?"}]}
